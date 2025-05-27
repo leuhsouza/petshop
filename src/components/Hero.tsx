@@ -6,7 +6,7 @@ const Hero: React.FC = () => {
       id="inicio" 
       className="relative h-screen bg-cover bg-center flex items-center"
       style={{ 
-        backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://br.freepik.com/fotos-gratis/veterinario-cuidando-de-animal-de-estimacao_20823236.htm#fromView=search&page=3&position=2&uuid=ec3af259-6d3b-48d2-b732-1dde16ba755e&query=petshop+cat")' 
+        backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://drive.google.com/file/d/1aYYW2QKATStEZfLU4qZiNOJiwl-CUjlZ/view?usp=sharing")' 
       }}
     >
       <div className="container mx-auto px-4 text-center">
