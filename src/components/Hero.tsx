@@ -6,7 +6,7 @@ const Hero: React.FC = () => {
       id="inicio" 
       className="relative h-screen bg-cover bg-center flex items-center"
       style={{ 
-        backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://drive.google.com/uc?id=1aYYW2QKATStEZfLU4qZiNOJiwl-CUjlZ")' 
+        backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://images.unsplash.com/photo-1733451677115-043604a22ec6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")' 
       }}
     >
       <div className="container mx-auto px-4 text-center">
